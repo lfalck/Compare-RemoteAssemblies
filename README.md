@@ -12,4 +12,4 @@
 
 # Screenshot
 
-<img src="https://www.dropbox.com/s/1h8h1izjp3xp9jd/compare-remoteassemblies.png"/>
+<img src="https://www.dropbox.com/s/1h8h1izjp3xp9jd/compare-remoteassemblies.png?raw=1"/>
