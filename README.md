@@ -6,11 +6,10 @@
 **Install from PowerShell Gallery**
 `PS> Install-Script -Name Compare-RemoteAssemblies`
 
-**Link to PowerShell Gallery**
-https://www.powershellgallery.com/packages/Compare-RemoteAssemblies
+[PowerShell Gallery](https://www.powershellgallery.com/packages/Compare-RemoteAssemblies)
 
-**Direct download**
+<a href="https://raw.githubusercontent.com/lfalck/Compare-RemoteAssemblies/master/Compare-RemoteAssemblies/Compare-RemoteAssemblies.ps1" download>Direct download</a>
 
 # Screenshot
 
-![Screenshot](https://f6letw-am3pap001.files.1drv.com/y4pHUomYXsQaV0o-V0nHSfNprc_rECU5_HM8BaRQp9EOEsw3ad8xYXiwHmt5AMDaiWFWjhPkuIHTfcakjgdafeQzRn2xMFTqFcjqo5lL2ixP6NJLUMWpViiva3Tl2Jul_MsSOap2UEPpP6WGrPcDcN593WzFEFM62ZOXcimEFi6WeP7Jg9L9oSYzAY3uIDWz1waJnT6M4JVECdC1qEll92G0Q/compare-remoteassemblies.png?psid=1)
+![Screenshot](https://www.dropbox.com/s/1h8h1izjp3xp9jd/compare-remoteassemblies.png)
