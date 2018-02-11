@@ -1,3 +1,4 @@
+[![license](https://img.shields.io/github/license/lfalck/compare-remoteassemblies.svg)]()
 # About
 **Compare-RemoteAssemblies** displays a searchable, sortable and filterable list of local and remote assemblies. 
 
